@@ -1,0 +1,22 @@
+{
+  "name": "three-learn",
+  "version": "1.0.0",
+  "description": "learning three js with this repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiranlm/graphics.git"
+  },
+  "author": "Kiran LM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiranlm/graphics/issues"
+  },
+  "homepage": "https://github.com/kiranlm/graphics#readme",
+  "dependencies": {
+    "three": "^0.122.0"
+  }
+}
