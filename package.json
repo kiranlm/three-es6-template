@@ -1,23 +1,22 @@
 {
-  "name": "three-learn",
+  "name": "three-es6-template",
   "version": "1.0.0",
-  "description": "learning three js with this repo",
-  "main": "index.js",
+  "description": "Three.js ES6 starter example",
+  "private": true,
   "scripts": {
     "start": "webpack serve --mode development",
-    "build": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kiranlm/graphics.git"
+    "url": "git+https://github.com/kiranlm/three-es6.git"
   },
   "author": "Kiran LM",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kiranlm/graphics/issues"
+    "url": "https://github.com/kiranlm/three-es6/issues"
   },
-  "homepage": "https://github.com/kiranlm/graphics#readme",
+  "homepage": "https://github.com/kiranlm/three-es6#readme",
   "dependencies": {
     "three": "^0.122.0"
   },
