@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kiranlm/three-es6.git"
+    "url": "git+https://github.com/kiranlm/three-es6-template.git"
   },
   "author": "Kiran LM",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kiranlm/three-es6/issues"
+    "url": "https://github.com/kiranlm/three-es6-template/issues"
   },
-  "homepage": "https://github.com/kiranlm/three-es6#readme",
+  "homepage": "https://github.com/kiranlm/three-es6-template#readme",
   "dependencies": {
     "three": "^0.122.0"
   },
